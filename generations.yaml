@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (Econoline)"
+    start_year: 1961
+    end_year: 1967
+    description: "The original Ford Econoline (later renamed E-Series) was a forward-control van based on the Ford Falcon platform. Available in van, pickup, and station wagon configurations, it featured a cab-over design with the engine placed between the front seats to maximize cargo space. Initially powered by the Falcon's 144 cubic-inch inline-six engine producing just 85 HP, the compact exterior dimensions made it ideal for urban use. The simple, functional interior focused on utility rather than comfort, with basic instrumentation and minimal amenities. This generation established Ford in the American van market as a competitor to the Volkswagen Type 2 and Chevrolet Corvair vans."
+
+  - name: "Second Generation"
+    start_year: 1968
+    end_year: 1974
+    description: "The second-generation Econoline moved to a more conventional layout with the engine moved forward of the passenger compartment, though still partially inside the cab. This allowed for a shorter vehicle with more cargo space and improved engine access. The range expanded to include multiple wheelbase options and higher gross vehicle weight ratings for commercial applications. Engine options were significantly expanded to include larger inline-sixes and V8s up to 302 cubic inches. The interior remained utilitarian for cargo models, but passenger variants offered improved comfort with better seating, insulation, and amenities."
+
+  - name: "Third Generation"
+    start_year: 1975
+    end_year: 1991
+    description: "The third-generation E-Series (officially renamed from Econoline during this generation) adopted a complete redesign with a conventional truck-like nose that fully moved the engine ahead of the passenger compartment. Available in multiple wheelbases and roof heights, it could be configured as a cargo van, passenger wagon, or cutaway chassis for specialized applications. Engine options expanded to include larger V8s including 351, 400, and 460 cubic-inch variants, plus a 6.9L (later 7.3L) diesel option. The interior was significantly improved for passenger models, offering car-like amenities including air conditioning, improved sound systems, and more comfortable seating. This generation's extended production run saw numerous updates to styling, powertrains, and features, establishing the E-Series as America's best-selling full-size van."
+
+  - name: "Fourth Generation"
+    start_year: 1992
+    end_year: 2014
+    description: "The fourth-generation E-Series featured more aerodynamic styling with a sloped windshield and rounded corners, though still maintaining the truck-like front end. Available in E-150, E-250, and E-350 variants with multiple wheelbase options, it served both commercial and passenger markets. Engine options included various gasoline V8s and a 7.3L Power Stroke diesel, later updated to the 6.0L Power Stroke. The interior was gradually modernized throughout its run with improved ergonomics, safety features, and technology. This generation saw the addition of advanced features like stability control, backup sensors, and factory-installed navigation systems in later years. Despite its age, the fourth generation maintained strong sales primarily due to its established position in the commercial market and the significant costs associated with tooling for a full-size van."
+
+  - name: "Current Generation (Cutaway Only)"
+    start_year: 2015
+    end_year: null
+    description: "In 2015, the E-Series passenger and cargo vans were discontinued and replaced by the Transit, but the E-Series continues in production as cutaway and stripped chassis models for commercial upfitting. These variants maintain the front-end styling and cab section of the fourth generation but are exclusively built for conversion to applications such as ambulances, shuttle buses, and motorhomes. Powertrain options were updated to include modern engines such as the 7.3L Godzilla V8 introduced in 2020. The interior of the cab section has received incremental updates to technology and safety features while maintaining the rugged, commercial-focused design. The continued production of E-Series cutaway models alongside the Transit reflects its entrenched position in the commercial vehicle market and the specialized needs of upfitters who had decades of experience with the E-Series platform."
