@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_E-Series"
+
 generations:
   - name: "First Generation (Econoline)"
     start_year: 1961
