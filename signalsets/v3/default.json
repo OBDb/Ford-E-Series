@@ -55,6 +55,50 @@
   "signals": [
     {"id": "ESERIES_ODO_TRIP", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Trip distance"}
   ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_FL", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2814"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_FR", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2815"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2816"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear right inner tire pressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Rear left inner tire pressure"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4027"}, "freq": 3600, "dbgfilter": { "to": 2020, "from": 2022 },
+  "signals": [
+    {"id": "ESERIES_12V_AGE", "path": "Battery", "fmt": { "len": 16, "max": 1572840, "mul": 24, "unit": "hours" }, "name": "12V battery age"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4028"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
+  "signals": [
+    {"id": "ESERIES_12V_SOC", "path": "Battery", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "12V battery state of charge"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4029"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_12V_T", "path": "Battery", "fmt": { "len": 8, "max": 100, "min": -40, "add": -40, "unit": "celsius" }, "name": "12V battery temperature"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "402A"}, "freq": 5, "dbgfilter": { "to": 2020, "years": [2022, 2023, 2024, 2025], "from": 2027 },
+  "signals": [
+    {"id": "ESERIES_12V_V", "path": "Battery", "fmt": { "len": 8, "max": 18.75, "div": 20, "add": 6, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
+  ]},
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "402B"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
+  "signals": [
+    {"id": "ESERIES_VEH_BAT_CURRENT", "path": "Battery", "fmt": { "len": 8, "max": 128, "min": -127, "add": -127, "unit": "amps" }, "name": "Vehicle battery current"}
+  ]},
 { "hdr": "730", "dbg": true, "cmd": {"22": "330C"}, "freq": 0.25,
   "signals": [
     {"id": "ESERIES_STEER_SHFT_TQ", "path": "Engine", "fmt": { "len": 8, "max": 12.8, "min": -12.7, "div": 10, "add": -12.7, "unit": "newtonMeters" }, "name": "Steering shaft torque"}
@@ -1051,6 +1095,10 @@
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "180F"}, "freq": 1,
   "signals": [
     {"id": "ESERIES_TRANS_FLUID_FLUID", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission fluid fluid quality"}
+  ]},
+{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 5,
+  "signals": [
+    {"id": "ESERIES_ATF_T_VAR_4", "path": "Transmission", "fmt": { "len": 16, "max": 4095, "div": 16, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 4"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1E1F"}, "freq": 0.25,
   "signals": [

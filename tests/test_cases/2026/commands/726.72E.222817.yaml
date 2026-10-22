@@ -1,0 +1,11 @@
+command_id: 726.72E.222817
+test_cases:
+- expected_values:
+    ESERIES_TP_RRI: 76.9
+  response: '72E056228170602'
+- expected_values:
+    ESERIES_TP_RRI: 77
+  response: '72E056228170604'
+- expected_values:
+    ESERIES_TP_RRI: 77.15
+  response: '72E056228170607'

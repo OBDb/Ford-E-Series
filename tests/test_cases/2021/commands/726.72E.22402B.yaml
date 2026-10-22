@@ -1,0 +1,8 @@
+command_id: 726.72E.22402B
+test_cases:
+- expected_values:
+    ESERIES_VEH_BAT_CURRENT: 14
+  response: 72E0462402B8D
+- expected_values:
+    ESERIES_VEH_BAT_CURRENT: 15
+  response: 72E0462402B8E
