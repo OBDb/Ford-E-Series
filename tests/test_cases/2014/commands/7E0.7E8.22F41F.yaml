@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    ESERIES_RUN_TIME: 339
+  response: 7E80562F41F0153
+- expected_values:
+    ESERIES_RUN_TIME: 491
+  response: 7E80562F41F01EB
+- expected_values:
+    ESERIES_RUN_TIME: 521
+  response: 7E80562F41F0209

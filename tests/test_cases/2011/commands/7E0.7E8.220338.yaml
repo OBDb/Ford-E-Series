@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.07227
+  response: '7E8056203380025'
+- expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.10352
+  response: '7E8056203380035'
+- expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.3418
+  response: 7E80562033800AF
+- expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.34961
+  response: 7E80562033800B3
+- expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.35156
+  response: 7E80562033800B4

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 15.32898
+  response: 7E805621166139F
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 16.61072
+  response: '7E8056211661543'
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 26.09558
+  response: '7E8056211662167'
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 85.15015
+  response: 7E8056211666CFE
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 85.32104
+  response: 7E8056211666D36

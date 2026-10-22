@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1B
+test_cases:
+- expected_values:
+    ESERIES_ACT_OUTPUT_SHFT_SPD: 0
+  response: 7E805621E1B0000
+- expected_values:
+    ESERIES_ACT_OUTPUT_SHFT_SPD: 954.75
+  response: 7E805621E1B0EEB
+- expected_values:
+    ESERIES_ACT_OUTPUT_SHFT_SPD: 1373.25
+  response: 7E805621E1B1575

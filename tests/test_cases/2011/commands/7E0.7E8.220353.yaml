@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    ESERIES_BARO: 12.25432
+  response: '7E8056203530152'
+- expected_values:
+    ESERIES_BARO: 14.71968
+  response: '7E8056203530196'

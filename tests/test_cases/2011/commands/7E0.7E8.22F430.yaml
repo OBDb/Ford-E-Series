@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    ESERIES_WARMUP_CLR: 208
+  response: 7E80462F430D0
+- expected_values:
+    ESERIES_WARMUP_CLR: 212
+  response: 7E80462F430D4
+- expected_values:
+    ESERIES_WARMUP_CLR: 213
+  response: 7E80462F430D5

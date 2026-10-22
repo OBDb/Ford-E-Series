@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E14
+test_cases:
+- expected_values:
+    ESERIES_ACT_TQ_CONV_SLIP: 2.25
+  response: 7E805621E140009
+- expected_values:
+    ESERIES_ACT_TQ_CONV_SLIP: 575.25
+  response: 7E805621E1408FD
+- expected_values:
+    ESERIES_ACT_TQ_CONV_SLIP: 1047.75
+  response: 7E805621E14105F

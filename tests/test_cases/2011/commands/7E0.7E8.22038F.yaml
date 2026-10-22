@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    ESERIES_ECT: 87.07812
+  response: 7E80562038F15C5
+- expected_values:
+    ESERIES_ECT: 95.98438
+  response: 7E80562038F17FF
+- expected_values:
+    ESERIES_ECT: 96
+  response: 7E80562038F1800
+- expected_values:
+    ESERIES_ECT: 108.3125
+  response: 7E80562038F1B14

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    ESERIES_ETC_ANG_ACT: 2.95312
+  response: 7E80562093C05E8
+- expected_values:
+    ESERIES_ETC_ANG_ACT: 24.49805
+  response: 7E80562093C30FF
+- expected_values:
+    ESERIES_ETC_ANG_ACT: 51
+  response: 7E80562093C6600
+- expected_values:
+    ESERIES_ETC_ANG_ACT: 82
+  response: 7E80562093CA400

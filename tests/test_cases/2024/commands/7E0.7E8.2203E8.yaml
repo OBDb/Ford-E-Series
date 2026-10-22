@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    ESERIES_OAR: 0.19574
+  response: 7E8056203E80C87
+- expected_values:
+    ESERIES_OAR: 0
+  response: 7E8056203E8F237
+- expected_values:
+    ESERIES_OAR: 0
+  response: 7E8056203E8F53C
+- expected_values:
+    ESERIES_OAR: 0
+  response: 7E8056203E8FAE6

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    ESERIES_EVAP_RAW: 2692
+  response: 7E80562038E0A84

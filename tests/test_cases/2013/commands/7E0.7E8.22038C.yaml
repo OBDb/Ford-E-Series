@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22038C
+test_cases:
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: 0
+  response: 7E80462038C00
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: 0.01562
+  response: 7E80462038C01
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: 0.04688
+  response: 7E80462038C03
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.39062
+  response: 7E80462038CE7
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.34375
+  response: 7E80462038CEA
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.21875
+  response: 7E80462038CF2
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.20312
+  response: 7E80462038CF3
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.125
+  response: 7E80462038CF8
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.07812
+  response: 7E80462038CFB
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL5_NORM: -0.01562
+  response: 7E80462038CFF

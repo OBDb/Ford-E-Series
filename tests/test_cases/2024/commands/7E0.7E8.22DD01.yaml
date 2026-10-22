@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    ESERIES_ODO_7E0: 50935
+  response: 7E80662DD0100C6F7
+- expected_values:
+    ESERIES_ODO_7E0: 50943
+  response: 7E80662DD0100C6FF
+- expected_values:
+    ESERIES_ODO_7E0: 50944
+  response: 7E80662DD0100C700
+- expected_values:
+    ESERIES_ODO_7E0: 52480
+  response: 7E80662DD0100CD00

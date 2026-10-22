@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    ESERIES_KS1_RAW: 27
+  response: 7E805620403001B
+- expected_values:
+    ESERIES_KS1_RAW: 257
+  response: '7E8056204030101'
+- expected_values:
+    ESERIES_KS1_RAW: 65535
+  response: 7E805620403FFFF

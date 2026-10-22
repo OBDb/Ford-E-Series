@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    ESERIES_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    ESERIES_ENG_LOAD_PCT: 27.05882
+  response: 7E80462F40445
+- expected_values:
+    ESERIES_ENG_LOAD_PCT: 35.29412
+  response: 7E80462F4045A

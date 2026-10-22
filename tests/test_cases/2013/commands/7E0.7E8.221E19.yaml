@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E19
+test_cases:
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_GEAR_RATIO: 0.69825
+  response: 7E805621E190B2C
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_GEAR_RATIO: 1.00002
+  response: 7E805621E191000
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_GEAR_RATIO: 1.55447
+  response: 7E805621E1918DF
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_GEAR_RATIO: 2.83867
+  response: 7E805621E192D6B
