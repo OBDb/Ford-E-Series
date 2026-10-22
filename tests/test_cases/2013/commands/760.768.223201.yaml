@@ -4,6 +4,12 @@ test_cases:
     ESERIES_STEER_ANGLE: -567
   response: 7680562320153B4
 - expected_values:
+    ESERIES_STEER_ANGLE: -22.5
+  response: 768056232017E3E
+- expected_values:
+    ESERIES_STEER_ANGLE: 0
+  response: '768056232018000'
+- expected_values:
     ESERIES_STEER_ANGLE: 22.5
   response: 7680562320181C2
 - expected_values:

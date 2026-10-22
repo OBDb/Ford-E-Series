@@ -16,6 +16,15 @@ test_cases:
     ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 550
   response: 7E805621E1A0113
 - expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 568
+  response: 7E805621E1A011C
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 622
+  response: 7E805621E1A0137
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 678
+  response: 7E805621E1A0153
+- expected_values:
     ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 688
   response: 7E805621E1A0158
 - expected_values:

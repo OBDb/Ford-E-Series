@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E16
 test_cases:
 - expected_values:
-    ESERIES_AXLE_GEAR_RATIO_MEAS: 0.698
-  response: 7E805621E160B2B
+    ESERIES_AXLE_GEAR_RATIO_MEAS: 0.69775
+  response: 7E805621E160B2A
 - expected_values:
     ESERIES_AXLE_GEAR_RATIO_MEAS: 0.99976
   response: 7E805621E160FFF

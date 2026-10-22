@@ -10,11 +10,23 @@ test_cases:
     ESERIES_EVAP_PURGE_CMD: 16.61072
   response: '7E8056211661543'
 - expected_values:
+    ESERIES_EVAP_PURGE_CMD: 17.81921
+  response: 7E80562116616CF
+- expected_values:
     ESERIES_EVAP_PURGE_CMD: 26.09558
   response: '7E8056211662167'
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 80.38025
+  response: 7E80562116666E3
 - expected_values:
     ESERIES_EVAP_PURGE_CMD: 85.15015
   response: 7E8056211666CFE
 - expected_values:
     ESERIES_EVAP_PURGE_CMD: 85.32104
   response: 7E8056211666D36
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 95.58105
+  response: 7E8056211667A58
+- expected_values:
+    ESERIES_EVAP_PURGE_CMD: 97.32666
+  response: 7E8056211667C94

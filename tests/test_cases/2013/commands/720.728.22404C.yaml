@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     ESERIES_ODO: 82518.5
   response: 7280662404C0C9761
+- expected_values:
+    ESERIES_ODO: 82526.8
+  response: 7280662404C0C97B4
+- expected_values:
+    ESERIES_ODO: 82529.2
+  response: 7280662404C0C97CC
+- expected_values:
+    ESERIES_ODO: 82529.7
+  response: 7280662404C0C97D1

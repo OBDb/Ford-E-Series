@@ -7,5 +7,8 @@ test_cases:
     ESERIES_ETC_TRIM_LRN: 0.82031
   response: 7E80562033801A4
 - expected_values:
+    ESERIES_ETC_TRIM_LRN: 0.82422
+  response: 7E80562033801A6
+- expected_values:
     ESERIES_ETC_TRIM_LRN: 0.82812
   response: 7E80562033801A8

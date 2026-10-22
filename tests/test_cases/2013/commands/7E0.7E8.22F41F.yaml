@@ -4,11 +4,8 @@ test_cases:
     ESERIES_RUN_TIME: 185
   response: 7E80562F41F00B9
 - expected_values:
-    ESERIES_RUN_TIME: 1035
-  response: 7E80562F41F040B
-- expected_values:
     ESERIES_RUN_TIME: 1271
   response: 7E80562F41F04F7
 - expected_values:
-    ESERIES_RUN_TIME: 1303
-  response: 7E80562F41F0517
+    ESERIES_RUN_TIME: 2049
+  response: 7E80562F41F0801

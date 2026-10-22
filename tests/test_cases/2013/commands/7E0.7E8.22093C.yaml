@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    ESERIES_ETC_ANG_ACT: 3.30469
-  response: 7E80562093C069C
+    ESERIES_ETC_ANG_ACT: 3.03906
+  response: 7E80562093C0614
 - expected_values:
     ESERIES_ETC_ANG_ACT: 3.96875
   response: 7E80562093C07F0
 - expected_values:
-    ESERIES_ETC_ANG_ACT: 4.02734
-  response: 7E80562093C080E
+    ESERIES_ETC_ANG_ACT: 6.00586
+  response: 7E80562093C0C03
 - expected_values:
     ESERIES_ETC_ANG_ACT: 13.71289
   response: 7E80562093C1B6D
