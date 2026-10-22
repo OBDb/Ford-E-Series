@@ -4,5 +4,5 @@ test_cases:
     ESERIES_KS1_RAW: 33
   response: '7E8056204030021'
 - expected_values:
-    ESERIES_KS1_RAW: 102
-  response: '7E8056204030066'
+    ESERIES_KS1_RAW: 217
+  response: 7E80562040300D9

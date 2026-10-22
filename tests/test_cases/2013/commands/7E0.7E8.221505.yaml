@@ -7,5 +7,5 @@ test_cases:
     ESERIES_VSS_HD: 45.97656
   response: 7E80562150516FD
 - expected_values:
-    ESERIES_VSS_HD: 58.35156
-  response: 7E8056215051D2D
+    ESERIES_VSS_HD: 75.47656
+  response: 7E80562150525BD

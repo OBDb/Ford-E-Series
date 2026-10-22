@@ -7,5 +7,5 @@ test_cases:
     ESERIES_TOT: 43.625
   response: 7E805621E1C02BA
 - expected_values:
-    ESERIES_TOT: 56.5
-  response: 7E805621E1C0388
+    ESERIES_TOT: 55.125
+  response: 7E805621E1C0372

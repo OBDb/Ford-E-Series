@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ESERIES_WARMUP_CLR: 94
   response: 7E80462F4305E
+- expected_values:
+    ESERIES_WARMUP_CLR: 95
+  response: 7E80462F4305F

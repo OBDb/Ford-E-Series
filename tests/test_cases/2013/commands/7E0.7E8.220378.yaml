@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.220378
 test_cases:
 - expected_values:
-    ESERIES_GEN_CTRL: 22.02323
-  response: 7E8056203781C30
+    ESERIES_GEN_CTRL: 21.23582
+  response: 7E8056203781B2E
+- expected_values:
+    ESERIES_GEN_CTRL: 27.48326
+  response: 7E805620378232D
 - expected_values:
     ESERIES_GEN_CTRL: 41.96195
   response: 7E80562037835B5

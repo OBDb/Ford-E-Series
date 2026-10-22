@@ -4,20 +4,11 @@ test_cases:
     ESERIES_CL_LC: 0.00818
   response: 7E8056203BD0043
 - expected_values:
-    ESERIES_CL_LC: 0.01514
-  response: 7E8056203BD007C
-- expected_values:
-    ESERIES_CL_LC: 0.02051
-  response: 7E8056203BD00A8
-- expected_values:
-    ESERIES_CL_LC: 0.03625
-  response: 7E8056203BD0129
+    ESERIES_CL_LC: 0.03345
+  response: 7E8056203BD0112
 - expected_values:
     ESERIES_CL_LC: -0.03381
   response: 7E8056203BDFEEB
 - expected_values:
     ESERIES_CL_LC: -0.02429
   response: 7E8056203BDFF39
-- expected_values:
-    ESERIES_CL_LC: -0.005
-  response: 7E8056203BDFFD7

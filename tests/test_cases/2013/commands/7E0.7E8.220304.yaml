@@ -1,23 +1,11 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    ESERIES_CMD_GEN_V: 14.30279
-  response: 7E805620304727D
-- expected_values:
-    ESERIES_CMD_GEN_V: 14.30328
-  response: 7E805620304727E
-- expected_values:
-    ESERIES_CMD_GEN_V: 14.48921
-  response: 7E80562030473FB
+    ESERIES_CMD_GEN_V: 14.24814
+  response: 7E805620304720D
 - expected_values:
     ESERIES_CMD_GEN_V: 14.49067
   response: 7E80562030473FE
 - expected_values:
     ESERIES_CMD_GEN_V: 14.49262
   response: '7E8056203047402'
-- expected_values:
-    ESERIES_CMD_GEN_V: 14.49409
-  response: '7E8056203047405'
-- expected_values:
-    ESERIES_CMD_GEN_V: 14.49653
-  response: 7E805620304740A

@@ -4,5 +4,8 @@ test_cases:
     ESERIES_LPFP_DUTY: 30.49622
   response: '7E8056203072709'
 - expected_values:
-    ESERIES_LPFP_DUTY: 31.21033
-  response: 7E80562030727F3
+    ESERIES_LPFP_DUTY: 31.2439
+  response: 7E80562030727FE
+- expected_values:
+    ESERIES_LPFP_DUTY: 31.29883
+  response: '7E8056203072810'
