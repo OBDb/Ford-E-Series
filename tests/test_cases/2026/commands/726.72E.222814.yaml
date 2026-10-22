@@ -1,0 +1,11 @@
+command_id: 726.72E.222814
+test_cases:
+- expected_values:
+    ESERIES_TP_FR: 73.5
+  response: 72E0562281405BE
+- expected_values:
+    ESERIES_TP_FR: 73.65
+  response: 72E0562281405C1
+- expected_values:
+    ESERIES_TP_FR: 73.9
+  response: 72E0562281405C6
