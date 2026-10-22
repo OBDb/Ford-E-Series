@@ -1,0 +1,14 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    ESERIES_ODO: 58825.4
+  response: 7280662404C08F9DE
+- expected_values:
+    ESERIES_ODO: 59081.1
+  response: 7280662404C0903DB
+- expected_values:
+    ESERIES_ODO: 59187.1
+  response: 7280662404C0907FF
+- expected_values:
+    ESERIES_ODO: 59264.3
+  response: 7280662404C090B03

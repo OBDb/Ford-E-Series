@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    ESERIES_LPFP_DUTY: 29.55017
+  response: 7E80562030725D3
+- expected_values:
+    ESERIES_LPFP_DUTY: 34.36584
+  response: 7E8056203072BFD
+- expected_values:
+    ESERIES_LPFP_DUTY: 75
+  response: '7E8056203076000'

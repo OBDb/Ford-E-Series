@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    ESERIES_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    ESERIES_VSS_HD: 107.99219
+  response: 7E80562150535FF
+- expected_values:
+    ESERIES_VSS_HD: 116.01562
+  response: 7E8056215053A02

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    ESERIES_PCM_A_C_REFRIG_P: 524
+  response: 7E805620604020C
+- expected_values:
+    ESERIES_PCM_A_C_REFRIG_P: 532
+  response: '7E8056206040214'
+- expected_values:
+    ESERIES_PCM_A_C_REFRIG_P: 536
+  response: '7E8056206040218'
+- expected_values:
+    ESERIES_PCM_A_C_REFRIG_P: 582
+  response: '7E8056206040246'

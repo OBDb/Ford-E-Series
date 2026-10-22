@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    ESERIES_EVAP_RAW: 2677
+  response: 7E80562038E0A75
+- expected_values:
+    ESERIES_EVAP_RAW: 2682
+  response: 7E80562038E0A7A
+- expected_values:
+    ESERIES_EVAP_RAW: 2702
+  response: 7E80562038E0A8E
+- expected_values:
+    ESERIES_EVAP_RAW: 2757
+  response: 7E80562038E0AC5
+- expected_values:
+    ESERIES_EVAP_RAW: 2762
+  response: 7E80562038E0ACA
+- expected_values:
+    ESERIES_EVAP_RAW: 2767
+  response: 7E80562038E0ACF
+- expected_values:
+    ESERIES_EVAP_RAW: 2772
+  response: 7E80562038E0AD4

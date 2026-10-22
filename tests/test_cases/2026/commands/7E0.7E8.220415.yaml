@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    ESERIES_PCM_ENG_EOP_RAW: 93
+  response: 7E805620415005D
+- expected_values:
+    ESERIES_PCM_ENG_EOP_RAW: 234
+  response: 7E80562041500EA
+- expected_values:
+    ESERIES_PCM_ENG_EOP_RAW: 245
+  response: 7E80562041500F5

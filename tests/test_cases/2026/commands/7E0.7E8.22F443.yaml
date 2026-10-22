@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    ESERIES_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
+- expected_values:
+    ESERIES_ENG_LOAD_ACT: 18.82353
+  response: 7E80562F4430030
+- expected_values:
+    ESERIES_ENG_LOAD_ACT: 25.4902
+  response: 7E80562F4430041

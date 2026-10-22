@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    ESERIES_TOT: 28.1875
+  response: 7E805621E1C01C3
+- expected_values:
+    ESERIES_TOT: 28.25
+  response: 7E805621E1C01C4
+- expected_values:
+    ESERIES_TOT: 28.8125
+  response: 7E805621E1C01CD
+- expected_values:
+    ESERIES_TOT: 28.9375
+  response: 7E805621E1C01CF
+- expected_values:
+    ESERIES_TOT: 29.6875
+  response: 7E805621E1C01DB
+- expected_values:
+    ESERIES_TOT: 29.75
+  response: 7E805621E1C01DC

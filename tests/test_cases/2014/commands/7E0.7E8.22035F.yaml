@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    ESERIES_RO2_V: 0.22168
+  response: 7E80562035F00E3
+- expected_values:
+    ESERIES_RO2_V: 0.74609
+  response: 7E80562035F02FC
+- expected_values:
+    ESERIES_RO2_V: 0.77344
+  response: 7E80562035F0318

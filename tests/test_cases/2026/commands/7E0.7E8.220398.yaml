@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220398
+test_cases:
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL6_NORM: 0
+  response: '7E80462039800'
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL6_NORM: 0.09375
+  response: '7E80462039806'
+- expected_values:
+    ESERIES_PCM_MISF_ACCEL_CYL6_NORM: 0.17188
+  response: 7E8046203980B

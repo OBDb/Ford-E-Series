@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    ESERIES_BAT_V_7E0: 13.998
+  response: 7E80562F44236AE
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.075
+  response: 7E80562F44236FB
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.151
+  response: 7E80562F4423747
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.177
+  response: 7E80562F4423761
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.202
+  response: 7E80562F442377A
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.228
+  response: 7E80562F4423794
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.253
+  response: 7E80562F44237AD
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.304
+  response: 7E80562F44237E0
+- expected_values:
+    ESERIES_BAT_V_7E0: 14.33
+  response: 7E80562F44237FA

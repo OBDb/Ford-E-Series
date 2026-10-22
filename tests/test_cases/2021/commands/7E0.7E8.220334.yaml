@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    ESERIES_PCM_CYL_HEAD_T_CORR: 56.64062
+  response: 7E8056203340E29
+- expected_values:
+    ESERIES_PCM_CYL_HEAD_T_CORR: 61.79688
+  response: 7E8056203340F73
+- expected_values:
+    ESERIES_PCM_CYL_HEAD_T_CORR: 68.59375
+  response: '7E8056203341126'

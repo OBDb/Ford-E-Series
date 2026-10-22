@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22030F
+test_cases:
+- expected_values:
+    ESERIES_CL: 1.10745
+  response: 7E80562030F8DC1
+- expected_values:
+    ESERIES_CL: 1.11621
+  response: 7E80562030F8EE0

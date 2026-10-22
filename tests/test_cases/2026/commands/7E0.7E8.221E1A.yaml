@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 620
+  response: 7E805621E1A0136
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 836
+  response: 7E805621E1A01A2
+- expected_values:
+    ESERIES_PCM_CMD_TRANS_MAIN_LINE_P: 844
+  response: 7E805621E1A01A6

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    ESERIES_CAT_TEMP: 17.3
+  response: 7E80562F43C023D
+- expected_values:
+    ESERIES_CAT_TEMP: 249.2
+  response: 7E80562F43C0B4C
+- expected_values:
+    ESERIES_CAT_TEMP: 278.6
+  response: 7E80562F43C0C72

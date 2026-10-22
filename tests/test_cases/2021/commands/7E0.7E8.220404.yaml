@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220404
+test_cases:
+- expected_values:
+    ESERIES_KS2_RAW: 29
+  response: 7E805620404001D
+- expected_values:
+    ESERIES_KS2_RAW: 34
+  response: '7E8056204040022'

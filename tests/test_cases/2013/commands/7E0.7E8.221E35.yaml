@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221E35
+test_cases:
+- expected_values:
+    ESERIES_DES_TQ_CONV_SLIP: 1020
+  response: 7E805621E350FF0

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    ESERIES_DIST_DTC_CLR: 992
+  response: 7E80562F43103E0
+- expected_values:
+    ESERIES_DIST_DTC_CLR: 993
+  response: 7E80562F43103E1
+- expected_values:
+    ESERIES_DIST_DTC_CLR: 994
+  response: 7E80562F43103E2
+- expected_values:
+    ESERIES_DIST_DTC_CLR: 1006
+  response: 7E80562F43103EE
+- expected_values:
+    ESERIES_DIST_DTC_CLR: 1007
+  response: 7E80562F43103EF
