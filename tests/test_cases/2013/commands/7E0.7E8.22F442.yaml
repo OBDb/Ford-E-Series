@@ -7,5 +7,5 @@ test_cases:
     ESERIES_BAT_V_7E0: 14.075
   response: 7E80562F44236FB
 - expected_values:
-    ESERIES_BAT_V_7E0: 14.151
-  response: 7E80562F4423747
+    ESERIES_BAT_V_7E0: 14.126
+  response: 7E80562F442372E
