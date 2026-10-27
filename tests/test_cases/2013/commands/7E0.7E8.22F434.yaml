@@ -1,20 +1,14 @@
 command_id: 7E0.7E8.22F434
 test_cases:
 - expected_values:
+    ESERIES_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
     ESERIES_AIR_FUEL_RAT: 13.82984
   response: 7E80762F43478EA7FCB
 - expected_values:
     ESERIES_AIR_FUEL_RAT: 14.86014
   response: 7E80762F43481EC7FFC
-- expected_values:
-    ESERIES_AIR_FUEL_RAT: 14.88024
-  response: 7E80762F43482197FE9
-- expected_values:
-    ESERIES_AIR_FUEL_RAT: 14.93475
-  response: 7E80762F43482938009
-- expected_values:
-    ESERIES_AIR_FUEL_RAT: 14.97362
-  response: 7E80762F43482EA8003
 - expected_values:
     ESERIES_AIR_FUEL_RAT: 15.09112
   response: 7E80762F43483F18010
