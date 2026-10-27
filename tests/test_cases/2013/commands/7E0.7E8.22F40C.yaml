@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    ESERIES_RPM: 579.25
-  response: 7E80562F40C090D
+    ESERIES_RPM: 554.75
+  response: 7E80562F40C08AB
 - expected_values:
     ESERIES_RPM: 705
   response: 7E80562F40C0B04
