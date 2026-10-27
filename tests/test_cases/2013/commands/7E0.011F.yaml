@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     RUNTM: 56
   response: 7E804411F0038
+- expected_values:
+    RUNTM: 1049
+  response: 7E804411F0419
+- expected_values:
+    RUNTM: 1082
+  response: 7E804411F043A
+- expected_values:
+    RUNTM: 1113
+  response: 7E804411F0459
+- expected_values:
+    RUNTM: 1144
+  response: 7E804411F0478
+- expected_values:
+    RUNTM: 1174
+  response: 7E804411F0496
