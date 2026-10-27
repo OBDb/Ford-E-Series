@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
+    ESERIES_CAT_TEMP: 328.7
+  response: 7E80562F43C0E67
+- expected_values:
     ESERIES_CAT_TEMP: 522.2
   response: 7E80562F43C15F6
 - expected_values:
