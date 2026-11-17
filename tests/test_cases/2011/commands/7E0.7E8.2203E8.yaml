@@ -22,8 +22,8 @@ test_cases:
     ESERIES_OAR: 1
   response: 7E8056203E84000
 - expected_values:
-    ESERIES_OAR: 0
+    ESERIES_OAR: -1
   response: 7E8056203E8C000
 - expected_values:
-    ESERIES_OAR: 0
+    ESERIES_OAR: -0.12714
   response: 7E8056203E8F7DD

@@ -4,11 +4,11 @@ test_cases:
     ESERIES_OAR: 0.19574
   response: 7E8056203E80C87
 - expected_values:
-    ESERIES_OAR: 0
+    ESERIES_OAR: -0.21539
   response: 7E8056203E8F237
 - expected_values:
-    ESERIES_OAR: 0
+    ESERIES_OAR: -0.16821
   response: 7E8056203E8F53C
 - expected_values:
-    ESERIES_OAR: 0
+    ESERIES_OAR: -0.07971
   response: 7E8056203E8FAE6
